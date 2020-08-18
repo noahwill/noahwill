@@ -1,21 +1,8 @@
-### Yo! I'm Noah!
+### Yo 🙋‍♂️ I'm Noah! 
 
-<!--
-**noahwill/noahwill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an API/web app engineer for a financial company during the day and a pseudo-fullstack engineer by night for my church, [People Church](peoplechurch.org)!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning front end technologies: 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 🔧 Technologies & Tools
+#### 🔧 Tool Bag
 ![](https://img.shields.io/badge/Using-informational?style=flat&logo=&Color=white&color=62D496)
 ![](https://img.shields.io/badge/Refreshing-informational?style=flat&logo=&Color=white&color=3F8AFB)
 ![](https://img.shields.io/badge/Learning-informational?style=flat&logo=&Color=white&color=FFBE45) 
@@ -23,8 +10,8 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=62D496)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=62D496)
-![](https://img.shields.io/badge/Tool-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=62D496)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=62D496)
+![](https://img.shields.io/badge/Tool-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=62D496)
 ![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=62D496)
 ![](https://img.shields.io/badge/API-Slack-informational?style=flat&logo=slack&logoColor=white&color=62D496)
 
