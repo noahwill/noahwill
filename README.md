@@ -1,4 +1,4 @@
-### Yo 🙋‍♂️ I'm Noah! 
+### Yo! I'm Noah! 🙋‍♂️
 
 I'm an API/web app engineer for a financial company during the day and an  in-progress fullstack engineer by night for my church, [People Church](peoplechurch.org)!
 
