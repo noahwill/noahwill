@@ -1,6 +1,6 @@
 ### Yo 🙋‍♂️ I'm Noah! 
 
-I'm an API/web app engineer for a financial company during the day and a pseudo-fullstack engineer by night for my church, [People Church](peoplechurch.org)!
+I'm an API/web app engineer for a financial company during the day and an  in-progress fullstack engineer by night for my church, [People Church](peoplechurch.org)!
 
 #### 🔧 Tool Bag
 ![](https://img.shields.io/badge/Using-informational?style=flat&logo=&Color=white&color=62D496)
