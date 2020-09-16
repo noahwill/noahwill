@@ -11,10 +11,9 @@ I'm an API/web app engineer for a financial company during the day and an in-pro
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=62D496)
 ![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react&logoColor=white&color=62D496)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=62D496)
+![](https://img.shields.io/badge/Tool-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=62D496)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=62D496)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=62D496)
-![](https://img.shields.io/badge/Tool-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=62D496)
-![](https://img.shields.io/badge/API-Slack-informational?style=flat&logo=slack&logoColor=white&color=62D496)
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=3F8AFB)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=3F8AFB)
