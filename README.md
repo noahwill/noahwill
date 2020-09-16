@@ -4,17 +4,16 @@ I'm an API/web app engineer for a financial company during the day and an in-pro
 
 #### 🔧 What's in my tool bag?
 ![](https://img.shields.io/badge/Using-informational?style=flat&logo=&Color=white&color=62D496)
-![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react&logoColor=white&color=62D496)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=62D496)
 ![](https://img.shields.io/badge/Refreshing-informational?style=flat&logo=&Color=white&color=3F8AFB)
 ![](https://img.shields.io/badge/Learning-informational?style=flat&logo=&Color=white&color=FFBE45) 
 ![](https://img.shields.io/badge/Want_To_Learn-informational?style=flat&logo=&Color=white&color=EC524A)
 
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=62D496)
+![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react&logoColor=white&color=62D496)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=62D496)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=62D496)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=62D496)
 ![](https://img.shields.io/badge/Tool-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=62D496)
-![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=62D496)
 ![](https://img.shields.io/badge/API-Slack-informational?style=flat&logo=slack&logoColor=white&color=62D496)
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=3F8AFB)
