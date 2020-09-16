@@ -4,6 +4,8 @@ I'm an API/web app engineer for a financial company during the day and an in-pro
 
 #### 🔧 What's in my tool bag?
 ![](https://img.shields.io/badge/Using-informational?style=flat&logo=&Color=white&color=62D496)
+![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react&logoColor=white&color=62D496)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=62D496)
 ![](https://img.shields.io/badge/Refreshing-informational?style=flat&logo=&Color=white&color=3F8AFB)
 ![](https://img.shields.io/badge/Learning-informational?style=flat&logo=&Color=white&color=FFBE45) 
 ![](https://img.shields.io/badge/Want_To_Learn-informational?style=flat&logo=&Color=white&color=EC524A)
@@ -20,9 +22,7 @@ I'm an API/web app engineer for a financial company during the day and an in-pro
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3F8AFB)
 ![](https://img.shields.io/badge/Library-pandas-informational?style=flat&logo=pandas&logoColor=white&color=3F8AFB)
 
-![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react&logoColor=white&color=FFBE45)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=FFBE45)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=FFBE45)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=FFBE45)
 
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=EC524A)
