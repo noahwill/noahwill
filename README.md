@@ -1,6 +1,6 @@
 ### Yo! I'm Noah! 🙋‍♂️
 
-I'm an API/web app engineer for a financial company during the day and an in-progress fullstack engineer by night, building a Slack bot and admin system for [Renée](https://myrenee.io)!
+I'm backend engineer for [SpotHero](https://spothero.com/) during the day and an in-progress fullstack engineer by night, building a Slack bot and admin system for [Renée](https://myrenee.io)!
 
 #### 🔧 What's in my tool bag?
 ![](https://img.shields.io/badge/Using-informational?style=flat&logo=&Color=white&color=62D496)
