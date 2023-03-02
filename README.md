@@ -2,4 +2,4 @@
 
 🌞 [SpotHero](https://spothero.com/) 
 
-🌜 [Renée](https://myrenee.io)
+🌜 something different 
